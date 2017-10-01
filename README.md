@@ -1,6 +1,6 @@
 # MBJoyStick
 
-<a href="https://imgflip.com/gif/1wug6k"><img src="https://i.imgflip.com/1wug6k.gif" title="made at imgflip.com"/></a>
+<img src="https://github.com/iCoder86/MBJoyStick/blob/master/MBJoyStick/MBJoyStick/JoyStick.gif" title="made at imgflip.com"/>
 
 Comstom UIView
 
